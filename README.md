@@ -7,3 +7,6 @@ This repository contains my solutions to the practice questions that are located
 - `/basic.sql` – SELECT statements, filtering, sorting, aggregates, Comparison operators, Logical operators.
 - `/intermediate.sql` – Aggregate Functions, Joins, Unions, and Self joins.
 - `/advanced.sql` – Data Wrangling, Subqueries, Windows Functions, Pivots. 
+
+## Datasets
+The file `/datasets/` contains the csv file for each data set that was used throughout the tutorial.
