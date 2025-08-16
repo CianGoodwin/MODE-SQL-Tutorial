@@ -5,7 +5,7 @@ This repository contains my solutions to the practice questions that are located
 
 ## Structure
 - [`/basic.sql`](https://github.com/CianGoodwin/MODE-SQL-Tutorial/blob/main/basic.sql) – SELECT statements, filtering, sorting, aggregates, Comparison operators, Logical operators.
-- `/intermediate.sql` – Aggregate Functions, Joins, Unions, and Self joins.
+- [`/intermediate.sql`](https://github.com/CianGoodwin/MODE-SQL-Tutorial/blob/main/intermediate.sql) – Aggregate Functions, Joins, Unions, and Self joins.
 - `/advanced.sql` – Data Wrangling, Subqueries, Windows Functions, Pivots. 
 
 ## Datasets
